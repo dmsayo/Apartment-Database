@@ -1,0 +1,25 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.aboutViewHeader {
+    display: flex;
+    align-items: initial;
+}
+
+.center {
+    margin: auto;
+    padding: 15px;
+}
+.textAlign{
+    text-align: initial;
+
+}
+.titleAlign{
+    text-align: center;
+}

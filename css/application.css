@@ -1,0 +1,23 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.profileTables {
+    border-collapse: separate;
+    border-spacing: 0 5px;
+}
+
+.tenantHomepageTables {
+    border-collapse: separate;
+    border-spacing: 0 10px;
+}
+
+.tenantUtilityExpensesTable {
+    border-collapse: separate;
+    border-spacing: 0 10px;
+}
